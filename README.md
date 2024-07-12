@@ -1,8 +1,10 @@
 # Setting-up-Apache-web-server
 
-### Made sure I had all the packages i needed
+### Im using an Arch VM
 
-### Configured the firewall to allow traffic through ports 80 and 443
+### Using pacman, I installed Apache and ufw
+
+### I configured the firewall to allow traffic through ports 80 and 443
 
 ### Started apache and checked that it was working by going through local host
 
