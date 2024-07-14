@@ -8,7 +8,9 @@
 
 ### I configured the firewall to allow traffic through ports 80 and 443
 
-### Started apache and checked that it was working by going through local host
+```sudo ufw enable``` ```sudo ufw allow 80``` ```sudo ufw allow 443``` ```sudo ufw reload```
+
+### Started apache and checked that it was working by going through local host in my web browser
 
 ### I cloned the files from https://github.com/simon-sass/Cinnamon-Misc.git into /srv/http
 
