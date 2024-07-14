@@ -12,6 +12,9 @@
 
 ### Started apache and checked that it was working by going through local host in my web browser
 
+![OG](https://github.com/user-attachments/assets/7947230e-8bca-4f8b-b4f4-b8fd0ad81ab5)
+
+
 ### I cloned the files from https://github.com/simon-sass/Cinnamon-Misc.git into /srv/http
 
 ### I went back to my local host and played a game of simon says
