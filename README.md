@@ -1,6 +1,6 @@
 # Setting-up-Apache-web-server
 
-### Im using an Arch VM
+### I'm using an Arch VM
 
 ### Using pacman, I installed Apache and ufw
 
